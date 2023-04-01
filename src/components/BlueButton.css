@@ -1,0 +1,18 @@
+.new-tweet-btn {
+  background-color: var(--twitter-blue);
+  padding: 1rem 1rem;
+  border-radius: 9999px;
+  display: flex;
+  justify-content: center;
+  color: #FFF;
+  min-width: 6rem;
+  font-size: 1.25rem;
+  font-weight: 900;
+  border: 0;
+  transition: .3s ease;
+  cursor: pointer;
+}
+
+.new-tweet-btn:hover {
+  background-color: #198cd8;
+}
